@@ -12,7 +12,7 @@
 # Tereza Oliveira
 
 Atividade 1: Trello 
-- [Grupo](https://trello.com/b/tzJqQv6c/gerenciador-de-tarefas))
+- [Grupo](https://trello.com/b/tzJqQv6c/gerenciador-de-tarefas)
 - [Individual](https://trello.com/b/3G2BidbH/minha-pasta)
 
 
