@@ -9,7 +9,7 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
+## Caio Henrique 
 
 Atividade 1: Trello 
 - [Grupo](https://trello.com/b/tzJqQv6c/gerenciador-de-tarefas)
