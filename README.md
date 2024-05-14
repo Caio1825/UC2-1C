@@ -14,5 +14,6 @@
 Atividade 1: Trello 
 - [Grupo](https://trello.com/b/tzJqQv6c/gerenciador-de-tarefas)
 - [Individual](https://trello.com/b/3G2BidbH/minha-pasta)
+- [TypeScript](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit)
 
 
