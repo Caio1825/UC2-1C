@@ -23,4 +23,9 @@ Atividade 1: Trello
   
   Atividade 3: Emprego dos Sonhos
   
-  [Emprego dos Sonhos](https://docs.google.com/document/d/1mMvqU3ubYgg0NdyRU7I-QXgBo8kz8aCyGb3Tkugw9QQ/edit#heading=h.h7h14cve3pub)
+ - [Emprego dos Sonhos](https://docs.google.com/document/d/1mMvqU3ubYgg0NdyRU7I-QXgBo8kz8aCyGb3Tkugw9QQ/edit#heading=h.h7h14cve3pub)
+
+
+  Atividade 4: Grafico de Gantt
+  
+ - [Grafico](https://docs.google.com/spreadsheets/d/1Og09hiKSlyyfKgpxTYFunzh398mcsw5k1DTgf1GXu1U/edit#gid=1115838130)
